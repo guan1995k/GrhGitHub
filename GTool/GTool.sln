@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTool", "GTool\GTool.csproj", "{D0AB8FE3-1DA6-4701-82E6-5C46C535E466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuanMethod", "GuanMethod\GuanMethod.csproj", "{1656C6EF-7793-445A-AB2F-4F2C5006BE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DingKit", "DingKit\DingKit.csproj", "{E1A9D4C6-0DDB-4FE1-88EE-3F8EA0542D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AB8FE3-1DA6-4701-82E6-5C46C535E466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AB8FE3-1DA6-4701-82E6-5C46C535E466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AB8FE3-1DA6-4701-82E6-5C46C535E466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AB8FE3-1DA6-4701-82E6-5C46C535E466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1656C6EF-7793-445A-AB2F-4F2C5006BE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1656C6EF-7793-445A-AB2F-4F2C5006BE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1656C6EF-7793-445A-AB2F-4F2C5006BE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1656C6EF-7793-445A-AB2F-4F2C5006BE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A9D4C6-0DDB-4FE1-88EE-3F8EA0542D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A9D4C6-0DDB-4FE1-88EE-3F8EA0542D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A9D4C6-0DDB-4FE1-88EE-3F8EA0542D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A9D4C6-0DDB-4FE1-88EE-3F8EA0542D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

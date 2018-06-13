@@ -1,0 +1,12 @@
+D:\GTool\GTool\GTool\bin\Debug\GTool.exe.config
+D:\GTool\GTool\GTool\bin\Debug\GTool.exe
+D:\GTool\GTool\GTool\bin\Debug\GTool.pdb
+D:\GTool\GTool\GTool\obj\Debug\GTool.csprojResolveAssemblyReference.cache
+D:\GTool\GTool\GTool\obj\Debug\GTool.Properties.Resources.resources
+D:\GTool\GTool\GTool\obj\Debug\GTool.csproj.GenerateResource.Cache
+D:\GTool\GTool\GTool\obj\Debug\GTool.exe
+D:\GTool\GTool\GTool\obj\Debug\GTool.pdb
+D:\GTool\GTool\GTool\bin\Debug\GuanMethod.dll
+D:\GTool\GTool\GTool\bin\Debug\GuanMethod.pdb
+D:\GTool\GTool\GTool\obj\Debug\GTool.GTool.resources
+D:\GTool\GTool\GTool\obj\Debug\GTool.Test.resources

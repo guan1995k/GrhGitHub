@@ -1,0 +1,5 @@
+D:\GTool\GTool\GuanMethod\bin\Debug\GuanMethod.dll
+D:\GTool\GTool\GuanMethod\bin\Debug\GuanMethod.pdb
+D:\GTool\GTool\GuanMethod\obj\Debug\GuanMethod.dll
+D:\GTool\GTool\GuanMethod\obj\Debug\GuanMethod.pdb
+D:\GTool\GTool\GuanMethod\obj\Debug\GuanMethod.csprojResolveAssemblyReference.cache
