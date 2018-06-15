@@ -1,0 +1,12 @@
+D:\各DLL源文件\dllResource\dllTestStage\bin\Debug\dllTestStage.exe
+D:\各DLL源文件\dllResource\dllTestStage\bin\Debug\dllTestStage.pdb
+D:\各DLL源文件\dllResource\dllTestStage\obj\x86\Debug\dllTestStage.Properties.Resources.resources
+D:\各DLL源文件\dllResource\dllTestStage\obj\x86\Debug\dllTestStage.csproj.GenerateResource.Cache
+D:\各DLL源文件\dllResource\dllTestStage\obj\x86\Debug\dllTestStage.exe
+D:\各DLL源文件\dllResource\dllTestStage\obj\x86\Debug\dllTestStage.pdb
+D:\各DLL源文件\dllResource\dllTestStage\obj\x86\Debug\dllTestStage.TestStage.resources
+D:\各DLL源文件\dllResource\dllTestStage\bin\Debug\ReportBuild.dll
+D:\各DLL源文件\dllResource\dllTestStage\bin\Debug\SqlOperation.dll
+D:\各DLL源文件\dllResource\dllTestStage\bin\Debug\ReportBuild.pdb
+D:\各DLL源文件\dllResource\dllTestStage\bin\Debug\SqlOperation.pdb
+D:\各DLL源文件\dllResource\dllTestStage\obj\x86\Debug\dllTestStage.csprojResolveAssemblyReference.cache

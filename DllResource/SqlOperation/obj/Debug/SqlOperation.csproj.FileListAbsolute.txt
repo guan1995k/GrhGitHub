@@ -1,0 +1,4 @@
+D:\各DLL源文件\dllResource\SqlOperation\bin\Debug\SqlOperation.dll
+D:\各DLL源文件\dllResource\SqlOperation\bin\Debug\SqlOperation.pdb
+D:\各DLL源文件\dllResource\SqlOperation\obj\Debug\SqlOperation.dll
+D:\各DLL源文件\dllResource\SqlOperation\obj\Debug\SqlOperation.pdb

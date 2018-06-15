@@ -1,0 +1,5 @@
+D:\各DLL源文件\dllResource\ReportBuild\bin\Debug\ReportBuild.dll
+D:\各DLL源文件\dllResource\ReportBuild\bin\Debug\ReportBuild.pdb
+D:\各DLL源文件\dllResource\ReportBuild\obj\Debug\ReportBuild.dll
+D:\各DLL源文件\dllResource\ReportBuild\obj\Debug\ReportBuild.pdb
+D:\各DLL源文件\dllResource\ReportBuild\obj\Debug\ReportBuild.csprojResolveAssemblyReference.cache
