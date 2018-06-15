@@ -46,6 +46,12 @@
     <Compile Include="ReportBuild.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SqlOperation\SqlOperation.csproj">
+      <Project>{1F183E94-FC0E-46B1-867B-5E1037907D02}</Project>
+      <Name>SqlOperation</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

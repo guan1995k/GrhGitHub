@@ -21,20 +21,12 @@ namespace dllTestStage
         }
         private void Bind()
         {
-
-            string TempletFileName = "D:/各DLL源文件/DllResource/dllTestStage/ExcelDemo/" + "测温报表模板5x12.xls";//模板文件
+            string TempletFileName = "D:/各DLL源文件/DllResource/dllTestStage/ExcelDemo/" + "测温报表模板5x7.xls";//模板文件
             string ReportFileName = "D:/各DLL源文件/DllResource/dllTestStage/ExcelOut/" + "_tmpAllRoomReport.xls";//导出文件
             string strTempletFile = Path.GetFileName(TempletFileName);
             //将模板文件复制到输出文件
-            try
-            {
-                FileInfo mode = new FileInfo(TempletFileName);
-                mode.CopyTo(ReportFileName, true);
-            }
-            catch (Exception err)
-            {
-                MessageBox.Show(err.Message);
-            }
+            FileInfo mode = new FileInfo(TempletFileName);
+            mode.CopyTo(ReportFileName, true);
             //打开excel
             object missing = Missing.Value;
             Microsoft.Office.Interop.Excel.Application app = null;
@@ -49,8 +41,8 @@ namespace dllTestStage
                 app.Visible = true;
                 //得到WorkSheet对象
                 ws = (Worksheet)wb.Worksheets.get_Item(1);
-                string Numsqlstr = "SELECT linepointnum,longlinenum,widelinenum,encirclenum,linesnum,encirclelinepointnum,house,linestartno FROM LineInfor WHERE houseno='16'";
-                string Datasqlstr = "SELECT [time],[houseNo],[linesNo],[pointNo],[temp] FROM HousePosTempData WHERE [time]='2018-06-06 11:11:21.000' AND [houseNo]='16' order by linesNo,pointNo";
+                string Numsqlstr = "SELECT linepointnum,longlinenum,widelinenum,encirclenum,linesnum,encirclelinepointnum,house,linestartno FROM LineInfor WHERE houseno='14'";
+                string Datasqlstr = "SELECT [time],[houseNo],[linesNo],[pointNo],[temp] FROM HousePosTempData WHERE [time]='2018-06-06 09:26:57.000' AND [houseNo]='14' order by linesNo,pointNo";
                 DataSet Numds = SqlFun.SOSelectGetDataSet(Numsqlstr);
                 DataSet Datads = SqlFun.SOSelectGetDataSet(Datasqlstr);
                 #region 利用三循环完成温度报表的数据输入
@@ -61,6 +53,7 @@ namespace dllTestStage
                 int lineno = 0;
                 int dslineno = 0;
                 int dspoint = 0;
+                int mergecell = 0;
                 for (int col = 1; col <= widelinenum; col++)
                 {
                     for (int row = 1; row <= longlinenum; row++)
@@ -72,9 +65,14 @@ namespace dllTestStage
                             dspoint = Convert.ToInt32(Datads.Tables[0].Rows[num][3]);
                             if (dslineno == lineno && dspoint == (5 - point))
                             {
-                                ws.Cells[row * 5 + point, col] = Datads.Tables[0].Rows[num++][4].ToString();
+                                ws.Cells[row * 5 + point, col + mergecell] = Datads.Tables[0].Rows[num++][4].ToString();
                             }
                         }
+                    }
+                    r = (Range)ws.Cells[6, col + mergecell];
+                    if (r.MergeArea.Cells.Columns.Count > 1)
+                    {
+                        mergecell = mergecell + r.MergeArea.Cells.Columns.Count - 1;
                     }
                 }
                 #endregion
