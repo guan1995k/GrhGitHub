@@ -1,0 +1,13 @@
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\bin\x64Debug\RealPlayAndPTZDemo.exe
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\bin\x64Debug\RealPlayAndPTZDemo.pdb
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\bin\x64Debug\NetSDKCS.dll
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\bin\x64Debug\NetSDKCS.pdb
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csprojResolveAssemblyReference.cache
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.RealPlayAndPTZDemo.resources
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.csproj.GenerateResource.Cache
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.pdb
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\bin\x86Release\RealPlayAndPTZDemo.pdb
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\bin\x86Release\NetSDKCS.dll
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\bin\x86Release\NetSDKCS.pdb
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\bin\x86Release\RealPlayAndPTZDemo.dll
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\RealPlayAndPTZDemo\obj\x64\Debug\RealPlayAndPTZDemo.dll

@@ -1,0 +1,1083 @@
+Begin Time:2018-06-08 09:31:40.968
+[2018-06-08 09:31:40.968][P:4640/T:1176][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 09:31:40.969][P:4640/T:1176][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 09:31:40.989][P:4640/T:1176][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 09:31:40.991][P:4640/T:1176][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 09:31:41.021][P:4640/T:1176][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0DCE0000
+
+[2018-06-08 09:31:41.021][P:4640/T:1176][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 09:31:41.030][P:4640/T:1176][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 09:31:41.040][P:4640/T:1176][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=044B25A6, dwUser=00000000].
+[2018-06-08 09:31:41.040][P:4640/T:1176][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 09:31:41.040][P:4640/T:1176][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=044B25CE, dwUser=00000000.]
+[2018-06-08 09:31:41.040][P:4640/T:1176][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 09:31:42.299][P:4640/T:1176][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0056EE38.]
+[2018-06-08 09:31:43.799][P:4640/T:1176][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 09:31:43.799][P:4640/T:1176][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 09:31:43.799][P:4640/T:1176][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 09:31:43.799][P:4640/T:1176][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 09:31:43.799][P:4640/T:1176][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 09:31:43.799][P:4640/T:1176][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 09:31:43.799][P:4640/T:1176][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 09:31:43.799][P:4640/T:1176][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 09:33:26.581
+[2018-06-08 09:33:26.581][P:10156/T:9400][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 09:33:26.582][P:10156/T:9400][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 09:33:26.604][P:10156/T:9400][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 09:33:26.606][P:10156/T:9400][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 09:33:26.616][P:10156/T:9400][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E440000
+
+[2018-06-08 09:33:26.616][P:10156/T:9400][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 09:33:26.623][P:10156/T:9400][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 09:33:26.625][P:10156/T:9400][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=00DC25A6, dwUser=00000000].
+[2018-06-08 09:33:26.625][P:10156/T:9400][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 09:33:26.625][P:10156/T:9400][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=00DC25CE, dwUser=00000000.]
+[2018-06-08 09:33:26.625][P:10156/T:9400][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 09:33:27.667][P:10156/T:9400][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=002CE79C.]
+[2018-06-08 09:33:29.168][P:10156/T:9400][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 09:33:29.168][P:10156/T:9400][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 09:33:29.168][P:10156/T:9400][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 09:33:29.168][P:10156/T:9400][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 09:33:29.168][P:10156/T:9400][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 09:33:29.168][P:10156/T:9400][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 09:33:29.168][P:10156/T:9400][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 09:33:29.168][P:10156/T:9400][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 09:33:44.100
+[2018-06-08 09:33:44.100][P:8720/T:9376][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 09:33:44.101][P:8720/T:9376][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 09:33:44.122][P:8720/T:9376][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 09:33:44.123][P:8720/T:9376][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 09:33:44.132][P:8720/T:9376][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E870000
+
+[2018-06-08 09:33:44.132][P:8720/T:9376][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 09:33:44.140][P:8720/T:9376][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 09:33:44.141][P:8720/T:9376][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04A325A6, dwUser=00000000].
+[2018-06-08 09:33:44.141][P:8720/T:9376][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 09:33:44.141][P:8720/T:9376][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04A325CE, dwUser=00000000.]
+[2018-06-08 09:33:44.141][P:8720/T:9376][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 09:34:27.249
+[2018-06-08 09:34:27.249][P:10148/T:4388][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 09:34:27.250][P:10148/T:4388][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 09:34:27.270][P:10148/T:4388][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 09:34:27.271][P:10148/T:4388][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 09:34:27.281][P:10148/T:4388][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E830000
+
+[2018-06-08 09:34:27.281][P:10148/T:4388][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 09:34:27.288][P:10148/T:4388][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 09:34:27.289][P:10148/T:4388][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=051425A6, dwUser=00000000].
+[2018-06-08 09:34:27.289][P:10148/T:4388][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 09:34:27.289][P:10148/T:4388][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=051425CE, dwUser=00000000.]
+[2018-06-08 09:34:27.289][P:10148/T:4388][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 09:34:29.826][P:10148/T:4388][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=001CEA1C.]
+[2018-06-08 09:34:31.327][P:10148/T:4388][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 09:34:31.327][P:10148/T:4388][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 09:34:31.327][P:10148/T:4388][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 09:34:31.327][P:10148/T:4388][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 09:34:31.327][P:10148/T:4388][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 09:34:31.327][P:10148/T:4388][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 09:34:31.327][P:10148/T:4388][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 09:34:31.327][P:10148/T:4388][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 11:38:59.686
+[2018-06-08 11:38:59.686][P:9408/T:11632][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:38:59.686][P:9408/T:11632][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:38:59.710][P:9408/T:11632][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:38:59.711][P:9408/T:11632][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:38:59.722][P:9408/T:11632][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E630000
+
+[2018-06-08 11:38:59.722][P:9408/T:11632][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:38:59.729][P:9408/T:11632][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:38:59.730][P:9408/T:11632][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04B923EE, dwUser=00000000].
+[2018-06-08 11:38:59.730][P:9408/T:11632][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:38:59.730][P:9408/T:11632][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04B92416, dwUser=00000000.]
+[2018-06-08 11:38:59.730][P:9408/T:11632][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 11:40:37.112
+[2018-06-08 11:40:37.112][P:5500/T:11376][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:40:37.113][P:5500/T:11376][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:40:37.133][P:5500/T:11376][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:40:37.135][P:5500/T:11376][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:40:37.144][P:5500/T:11376][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E690000
+
+[2018-06-08 11:40:37.144][P:5500/T:11376][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:40:37.151][P:5500/T:11376][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:40:37.152][P:5500/T:11376][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=042623EE, dwUser=00000000].
+[2018-06-08 11:40:37.152][P:5500/T:11376][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:40:37.152][P:5500/T:11376][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04262416, dwUser=00000000.]
+[2018-06-08 11:40:37.152][P:5500/T:11376][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 11:40:37.164][P:5500/T:11376][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0036E960.]
+[2018-06-08 11:40:38.665][P:5500/T:11376][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:40:38.665][P:5500/T:11376][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:40:38.665][P:5500/T:11376][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:40:38.665][P:5500/T:11376][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:40:38.665][P:5500/T:11376][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:40:38.665][P:5500/T:11376][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:40:38.665][P:5500/T:11376][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:40:38.666][P:5500/T:11376][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 11:40:38.674][P:5500/T:11376][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0036E960.]
+[2018-06-08 11:40:40.174][P:5500/T:11376][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:40:40.174][P:5500/T:11376][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:40:40.174][P:5500/T:11376][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:40:40.174][P:5500/T:11376][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:40:40.174][P:5500/T:11376][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:40:40.174][P:5500/T:11376][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:40:40.174][P:5500/T:11376][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:40:40.174][P:5500/T:11376][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 11:41:35.916
+[2018-06-08 11:41:35.916][P:12044/T:6112][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:41:35.916][P:12044/T:6112][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:41:35.937][P:12044/T:6112][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:41:35.938][P:12044/T:6112][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:41:35.948][P:12044/T:6112][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E810000
+
+[2018-06-08 11:41:35.948][P:12044/T:6112][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:41:35.955][P:12044/T:6112][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:41:35.956][P:12044/T:6112][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=051025A6, dwUser=00000000].
+[2018-06-08 11:41:35.956][P:12044/T:6112][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:41:35.956][P:12044/T:6112][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=051025CE, dwUser=00000000.]
+[2018-06-08 11:41:35.957][P:12044/T:6112][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 11:41:35.972][P:12044/T:6112][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0028E9E0.]
+[2018-06-08 11:41:37.473][P:12044/T:6112][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:41:37.473][P:12044/T:6112][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:41:37.473][P:12044/T:6112][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:41:37.473][P:12044/T:6112][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:41:37.473][P:12044/T:6112][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:41:37.473][P:12044/T:6112][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:41:37.473][P:12044/T:6112][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:41:37.473][P:12044/T:6112][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 11:41:38.447][P:12044/T:6112][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0028EB98.]
+[2018-06-08 11:41:39.949][P:12044/T:6112][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:41:39.949][P:12044/T:6112][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:41:39.949][P:12044/T:6112][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:41:39.949][P:12044/T:6112][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:41:39.949][P:12044/T:6112][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:41:39.949][P:12044/T:6112][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:41:39.949][P:12044/T:6112][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:41:39.949][P:12044/T:6112][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 11:41:39.951][P:12044/T:6112][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0028EB98.]
+[2018-06-08 11:41:41.451][P:12044/T:6112][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:41:41.451][P:12044/T:6112][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:41:41.451][P:12044/T:6112][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:41:41.451][P:12044/T:6112][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:41:41.451][P:12044/T:6112][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:41:41.451][P:12044/T:6112][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:41:41.451][P:12044/T:6112][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:41:41.451][P:12044/T:6112][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 11:41:42.488][P:12044/T:6112][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0028EB98.]
+[2018-06-08 11:41:43.988][P:12044/T:6112][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:41:43.988][P:12044/T:6112][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:41:43.988][P:12044/T:6112][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:41:43.988][P:12044/T:6112][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:41:43.988][P:12044/T:6112][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:41:43.988][P:12044/T:6112][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:41:43.988][P:12044/T:6112][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:41:43.988][P:12044/T:6112][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 11:41:53.202
+[2018-06-08 11:41:53.202][P:11936/T:5172][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:41:53.202][P:11936/T:5172][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:41:53.224][P:11936/T:5172][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:41:53.226][P:11936/T:5172][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:41:53.236][P:11936/T:5172][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E580000
+
+[2018-06-08 11:41:53.236][P:11936/T:5172][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:41:53.244][P:11936/T:5172][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:41:53.245][P:11936/T:5172][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=009425A6, dwUser=00000000].
+[2018-06-08 11:41:53.245][P:11936/T:5172][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:41:53.245][P:11936/T:5172][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=009425CE, dwUser=00000000.]
+[2018-06-08 11:41:53.245][P:11936/T:5172][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 11:41:53.261][P:11936/T:5172][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0037EB20.]
+[2018-06-08 11:41:54.761][P:11936/T:5172][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:41:54.761][P:11936/T:5172][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:41:54.761][P:11936/T:5172][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:41:54.761][P:11936/T:5172][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:41:54.761][P:11936/T:5172][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:41:54.761][P:11936/T:5172][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:41:54.761][P:11936/T:5172][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:41:54.761][P:11936/T:5172][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 11:41:55.247][P:11936/T:5172][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0037ECD8.]
+[2018-06-08 11:41:56.748][P:11936/T:5172][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:41:56.748][P:11936/T:5172][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:41:56.748][P:11936/T:5172][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:41:56.748][P:11936/T:5172][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:41:56.748][P:11936/T:5172][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:41:56.748][P:11936/T:5172][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:41:56.748][P:11936/T:5172][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:41:56.748][P:11936/T:5172][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 11:42:25.720
+[2018-06-08 11:42:25.720][P:2464/T:5144][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:42:25.720][P:2464/T:5144][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:42:25.743][P:2464/T:5144][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:42:25.744][P:2464/T:5144][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:42:25.755][P:2464/T:5144][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E800000
+
+[2018-06-08 11:42:25.755][P:2464/T:5144][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:42:25.762][P:2464/T:5144][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:42:25.763][P:2464/T:5144][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=053B25A6, dwUser=00000000].
+[2018-06-08 11:42:25.763][P:2464/T:5144][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:42:25.763][P:2464/T:5144][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=053B25CE, dwUser=00000000.]
+[2018-06-08 11:42:25.763][P:2464/T:5144][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 11:42:26.824][P:2464/T:5144][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=003EEE08.]
+[2018-06-08 11:42:28.325][P:2464/T:5144][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:42:28.325][P:2464/T:5144][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:42:28.325][P:2464/T:5144][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:42:28.325][P:2464/T:5144][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:42:28.325][P:2464/T:5144][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:42:28.325][P:2464/T:5144][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:42:28.325][P:2464/T:5144][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:42:28.325][P:2464/T:5144][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 11:44:39.703
+[2018-06-08 11:44:39.703][P:9472/T:10992][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:44:39.703][P:9472/T:10992][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:44:39.724][P:9472/T:10992][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:44:39.725][P:9472/T:10992][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:44:39.736][P:9472/T:10992][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E4B0000
+
+[2018-06-08 11:44:39.736][P:9472/T:10992][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:44:39.744][P:9472/T:10992][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:44:39.746][P:9472/T:10992][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=050B25A6, dwUser=00000000].
+[2018-06-08 11:44:39.746][P:9472/T:10992][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:44:39.746][P:9472/T:10992][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=050B25CE, dwUser=00000000.]
+[2018-06-08 11:44:39.746][P:9472/T:10992][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 11:44:39.768][P:9472/T:10992][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=004DE86C.]
+[2018-06-08 11:44:41.268][P:9472/T:10992][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:44:41.268][P:9472/T:10992][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:44:41.268][P:9472/T:10992][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:44:41.268][P:9472/T:10992][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:44:41.268][P:9472/T:10992][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:44:41.268][P:9472/T:10992][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:44:41.268][P:9472/T:10992][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:44:41.268][P:9472/T:10992][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 11:47:04.063
+[2018-06-08 11:47:04.063][P:12244/T:11776][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:47:04.064][P:12244/T:11776][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:47:04.085][P:12244/T:11776][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:47:04.087][P:12244/T:11776][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:47:04.098][P:12244/T:11776][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0F3D0000
+
+[2018-06-08 11:47:04.099][P:12244/T:11776][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:47:04.109][P:12244/T:11776][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:47:04.110][P:12244/T:11776][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=01142EAE, dwUser=00000000].
+[2018-06-08 11:47:04.110][P:12244/T:11776][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:47:04.110][P:12244/T:11776][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=01142ED6, dwUser=00000000.]
+[2018-06-08 11:47:04.110][P:12244/T:11776][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 11:47:04.140][P:12244/T:11776][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=05D8E5E0.]
+[2018-06-08 11:47:05.640][P:12244/T:11776][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:47:05.640][P:12244/T:11776][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:47:05.640][P:12244/T:11776][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:47:05.640][P:12244/T:11776][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:47:05.640][P:12244/T:11776][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:47:05.640][P:12244/T:11776][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:47:05.641][P:12244/T:11776][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:47:05.641][P:12244/T:11776][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 11:47:25.429
+[2018-06-08 11:47:25.429][P:12064/T:11148][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:47:25.429][P:12064/T:11148][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:47:25.454][P:12064/T:11148][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:47:25.456][P:12064/T:11148][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:47:25.467][P:12064/T:11148][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0EF30000
+
+[2018-06-08 11:47:25.467][P:12064/T:11148][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:47:25.477][P:12064/T:11148][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:47:25.478][P:12064/T:11148][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04612EAE, dwUser=00000000].
+[2018-06-08 11:47:25.478][P:12064/T:11148][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:47:25.478][P:12064/T:11148][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04612ED6, dwUser=00000000.]
+[2018-06-08 11:47:25.478][P:12064/T:11148][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 11:47:28.034][P:12064/T:11148][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0598E200.]
+[2018-06-08 11:47:29.536][P:12064/T:11148][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:47:29.536][P:12064/T:11148][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:47:29.536][P:12064/T:11148][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:47:29.536][P:12064/T:11148][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:47:29.536][P:12064/T:11148][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:47:29.536][P:12064/T:11148][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:47:29.536][P:12064/T:11148][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:47:29.536][P:12064/T:11148][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 11:47:36.402][P:12064/T:11148][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0598E2D4.]
+[2018-06-08 11:47:37.902][P:12064/T:11148][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:47:37.902][P:12064/T:11148][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:47:37.902][P:12064/T:11148][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:47:37.902][P:12064/T:11148][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:47:37.902][P:12064/T:11148][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:47:37.902][P:12064/T:11148][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:47:38.807][P:12064/T:11148][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:47:38.807][P:12064/T:11148][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 11:48:06.090
+[2018-06-08 11:48:06.090][P:8748/T:11172][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 11:48:06.090][P:8748/T:11172][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 11:48:06.113][P:8748/T:11172][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 11:48:06.114][P:8748/T:11172][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 11:48:06.125][P:8748/T:11172][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E5B0000
+
+[2018-06-08 11:48:06.125][P:8748/T:11172][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 11:48:06.132][P:8748/T:11172][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 11:48:06.133][P:8748/T:11172][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=01E425A6, dwUser=00000000].
+[2018-06-08 11:48:06.133][P:8748/T:11172][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 11:48:06.133][P:8748/T:11172][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=01E425CE, dwUser=00000000.]
+[2018-06-08 11:48:06.133][P:8748/T:11172][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 11:48:07.401][P:8748/T:11172][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0036EC68.]
+[2018-06-08 11:48:08.902][P:8748/T:11172][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 11:48:08.902][P:8748/T:11172][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 11:48:08.902][P:8748/T:11172][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 11:48:08.902][P:8748/T:11172][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 11:48:08.902][P:8748/T:11172][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 11:48:08.902][P:8748/T:11172][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 11:48:08.902][P:8748/T:11172][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 11:48:08.902][P:8748/T:11172][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 12:34:01.497
+[2018-06-08 12:34:01.497][P:11540/T:10428][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 12:34:01.497][P:11540/T:10428][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 12:34:01.519][P:11540/T:10428][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 12:34:01.521][P:11540/T:10428][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 12:34:01.531][P:11540/T:10428][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E680000
+
+[2018-06-08 12:34:01.531][P:11540/T:10428][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 12:34:01.538][P:11540/T:10428][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 12:34:01.539][P:11540/T:10428][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=052D25A6, dwUser=00000000].
+[2018-06-08 12:34:01.539][P:11540/T:10428][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 12:34:01.539][P:11540/T:10428][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=052D25CE, dwUser=00000000.]
+[2018-06-08 12:34:01.539][P:11540/T:10428][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 12:34:07.764][P:11540/T:10428][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=003EEA88.]
+[2018-06-08 12:34:09.264][P:11540/T:10428][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 12:34:09.264][P:11540/T:10428][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 12:34:09.264][P:11540/T:10428][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 12:34:09.264][P:11540/T:10428][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 12:34:09.264][P:11540/T:10428][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 12:34:09.264][P:11540/T:10428][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 12:34:09.264][P:11540/T:10428][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 12:34:09.264][P:11540/T:10428][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 13:15:58.664
+[2018-06-08 13:15:58.664][P:916/T:10340][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:15:58.664][P:916/T:10340][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:15:58.685][P:916/T:10340][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:15:58.686][P:916/T:10340][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:15:58.697][P:916/T:10340][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E890000
+
+[2018-06-08 13:15:58.698][P:916/T:10340][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:15:58.705][P:916/T:10340][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:15:58.706][P:916/T:10340][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=051525A6, dwUser=00000000].
+[2018-06-08 13:15:58.707][P:916/T:10340][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:15:58.707][P:916/T:10340][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=051525CE, dwUser=00000000.]
+[2018-06-08 13:15:58.707][P:916/T:10340][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:16:14.514
+[2018-06-08 13:16:14.514][P:9404/T:12096][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:16:14.514][P:9404/T:12096][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:16:14.536][P:9404/T:12096][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:16:14.537][P:9404/T:12096][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:16:14.548][P:9404/T:12096][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E560000
+
+[2018-06-08 13:16:14.548][P:9404/T:12096][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:16:14.555][P:9404/T:12096][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:16:14.556][P:9404/T:12096][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04A225A6, dwUser=00000000].
+[2018-06-08 13:16:14.556][P:9404/T:12096][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:16:14.556][P:9404/T:12096][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04A225CE, dwUser=00000000.]
+[2018-06-08 13:16:14.556][P:9404/T:12096][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:16:21.229
+[2018-06-08 13:16:21.229][P:11960/T:11848][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:16:21.229][P:11960/T:11848][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:16:21.252][P:11960/T:11848][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:16:21.253][P:11960/T:11848][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:16:21.263][P:11960/T:11848][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E9B0000
+
+[2018-06-08 13:16:21.263][P:11960/T:11848][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:16:21.273][P:11960/T:11848][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:16:21.274][P:11960/T:11848][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=048125A6, dwUser=00000000].
+[2018-06-08 13:16:21.274][P:11960/T:11848][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:16:21.274][P:11960/T:11848][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=048125CE, dwUser=00000000.]
+[2018-06-08 13:16:21.274][P:11960/T:11848][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:16:37.854
+[2018-06-08 13:16:37.855][P:11568/T:10376][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:16:37.855][P:11568/T:10376][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:16:37.877][P:11568/T:10376][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:16:37.879][P:11568/T:10376][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:16:37.889][P:11568/T:10376][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E470000
+
+[2018-06-08 13:16:37.889][P:11568/T:10376][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:16:37.897][P:11568/T:10376][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:16:37.898][P:11568/T:10376][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04AE25A6, dwUser=00000000].
+[2018-06-08 13:16:37.898][P:11568/T:10376][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:16:37.898][P:11568/T:10376][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04AE25CE, dwUser=00000000.]
+[2018-06-08 13:16:37.899][P:11568/T:10376][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:16:51.022
+[2018-06-08 13:16:51.022][P:11732/T:1372][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:16:51.022][P:11732/T:1372][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:16:51.045][P:11732/T:1372][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:16:51.046][P:11732/T:1372][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:16:51.056][P:11732/T:1372][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E980000
+
+[2018-06-08 13:16:51.056][P:11732/T:1372][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:16:51.064][P:11732/T:1372][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:16:51.065][P:11732/T:1372][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=053225A6, dwUser=00000000].
+[2018-06-08 13:16:51.065][P:11732/T:1372][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:16:51.066][P:11732/T:1372][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=053225CE, dwUser=00000000.]
+[2018-06-08 13:16:51.066][P:11732/T:1372][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:20:58.091
+[2018-06-08 13:20:58.091][P:10324/T:11988][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:20:58.091][P:10324/T:11988][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:20:58.111][P:10324/T:11988][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:20:58.113][P:10324/T:11988][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:20:58.123][P:10324/T:11988][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E7F0000
+
+[2018-06-08 13:20:58.124][P:10324/T:11988][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:20:58.132][P:10324/T:11988][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:20:58.132][P:10324/T:11988][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=049A25A6, dwUser=00000000].
+[2018-06-08 13:20:58.132][P:10324/T:11988][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:20:58.132][P:10324/T:11988][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=049A25CE, dwUser=00000000.]
+[2018-06-08 13:20:58.132][P:10324/T:11988][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:21:33.180
+[2018-06-08 13:21:33.180][P:11732/T:10984][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:21:33.180][P:11732/T:10984][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:21:33.201][P:11732/T:10984][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:21:33.203][P:11732/T:10984][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:21:33.213][P:11732/T:10984][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E660000
+
+[2018-06-08 13:21:33.213][P:11732/T:10984][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:21:33.220][P:11732/T:10984][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:21:33.221][P:11732/T:10984][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=047A25A6, dwUser=00000000].
+[2018-06-08 13:21:33.222][P:11732/T:10984][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:21:33.222][P:11732/T:10984][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=047A25CE, dwUser=00000000.]
+[2018-06-08 13:21:33.222][P:11732/T:10984][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:22:03.921
+[2018-06-08 13:22:03.922][P:5148/T:11880][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:22:03.922][P:5148/T:11880][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:22:03.944][P:5148/T:11880][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:22:03.946][P:5148/T:11880][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:22:03.957][P:5148/T:11880][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E790000
+
+[2018-06-08 13:22:03.957][P:5148/T:11880][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:22:03.964][P:5148/T:11880][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:22:03.965][P:5148/T:11880][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=050325A6, dwUser=00000000].
+[2018-06-08 13:22:03.965][P:5148/T:11880][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:22:03.965][P:5148/T:11880][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=050325CE, dwUser=00000000.]
+[2018-06-08 13:22:03.965][P:5148/T:11880][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:22:48.129
+[2018-06-08 13:22:48.129][P:10920/T:10584][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:22:48.129][P:10920/T:10584][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:22:48.150][P:10920/T:10584][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:22:48.151][P:10920/T:10584][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:22:48.161][P:10920/T:10584][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E780000
+
+[2018-06-08 13:22:48.161][P:10920/T:10584][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:22:48.168][P:10920/T:10584][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:22:48.169][P:10920/T:10584][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=051025A6, dwUser=00000000].
+[2018-06-08 13:22:48.169][P:10920/T:10584][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:22:48.169][P:10920/T:10584][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=051025CE, dwUser=00000000.]
+[2018-06-08 13:22:48.169][P:10920/T:10584][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:23:04.951
+[2018-06-08 13:23:04.951][P:12012/T:10928][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:23:04.951][P:12012/T:10928][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:23:04.977][P:12012/T:10928][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:23:04.979][P:12012/T:10928][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:23:04.990][P:12012/T:10928][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E420000
+
+[2018-06-08 13:23:04.990][P:12012/T:10928][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:23:04.999][P:12012/T:10928][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:23:04.999][P:12012/T:10928][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04C525A6, dwUser=00000000].
+[2018-06-08 13:23:04.999][P:12012/T:10928][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:23:05.000][P:12012/T:10928][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04C525CE, dwUser=00000000.]
+[2018-06-08 13:23:05.000][P:12012/T:10928][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:25:32.505
+[2018-06-08 13:25:32.505][P:5180/T:12260][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:25:32.505][P:5180/T:12260][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:25:32.527][P:5180/T:12260][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:25:32.529][P:5180/T:12260][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:25:32.539][P:5180/T:12260][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E990000
+
+[2018-06-08 13:25:32.539][P:5180/T:12260][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:25:32.548][P:5180/T:12260][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:25:32.548][P:5180/T:12260][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=051125CE, dwUser=00000000].
+[2018-06-08 13:25:32.549][P:5180/T:12260][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:25:32.549][P:5180/T:12260][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=051125F6, dwUser=00000000.]
+[2018-06-08 13:25:32.549][P:5180/T:12260][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:25:49.253
+[2018-06-08 13:25:49.253][P:4964/T:11660][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:25:49.253][P:4964/T:11660][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:25:49.275][P:4964/T:11660][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:25:49.276][P:4964/T:11660][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:25:49.287][P:4964/T:11660][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0DC80000
+
+[2018-06-08 13:25:49.287][P:4964/T:11660][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:25:49.294][P:4964/T:11660][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:25:49.295][P:4964/T:11660][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=048B25CE, dwUser=00000000].
+[2018-06-08 13:25:49.295][P:4964/T:11660][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:25:49.295][P:4964/T:11660][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=048B25F6, dwUser=00000000.]
+[2018-06-08 13:25:49.295][P:4964/T:11660][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:28:08.278
+[2018-06-08 13:28:08.278][P:11340/T:12104][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:28:08.278][P:11340/T:12104][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:28:08.300][P:11340/T:12104][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:28:08.301][P:11340/T:12104][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:28:08.311][P:11340/T:12104][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E660000
+
+[2018-06-08 13:28:08.311][P:11340/T:12104][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:28:08.318][P:11340/T:12104][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:28:08.318][P:11340/T:12104][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=051D25A6, dwUser=00000000].
+[2018-06-08 13:28:08.318][P:11340/T:12104][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:28:08.318][P:11340/T:12104][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=051D25CE, dwUser=00000000.]
+[2018-06-08 13:28:08.318][P:11340/T:12104][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:28:24.147
+[2018-06-08 13:28:24.147][P:5500/T:8448][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:28:24.148][P:5500/T:8448][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:28:24.170][P:5500/T:8448][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:28:24.172][P:5500/T:8448][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:28:24.181][P:5500/T:8448][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E5F0000
+
+[2018-06-08 13:28:24.181][P:5500/T:8448][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:28:24.189][P:5500/T:8448][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:28:24.190][P:5500/T:8448][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04CD25A6, dwUser=00000000].
+[2018-06-08 13:28:24.190][P:5500/T:8448][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:28:24.190][P:5500/T:8448][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04CD25CE, dwUser=00000000.]
+[2018-06-08 13:28:24.190][P:5500/T:8448][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:28:28.015
+[2018-06-08 13:28:28.015][P:11496/T:1124][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:28:28.016][P:11496/T:1124][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:28:28.036][P:11496/T:1124][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:28:28.038][P:11496/T:1124][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:28:28.048][P:11496/T:1124][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0EC80000
+
+[2018-06-08 13:28:28.048][P:11496/T:1124][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:28:28.058][P:11496/T:1124][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:28:28.058][P:11496/T:1124][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04C02EAE, dwUser=00000000].
+[2018-06-08 13:28:28.058][P:11496/T:1124][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:28:28.059][P:11496/T:1124][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04C02ED6, dwUser=00000000.]
+[2018-06-08 13:28:28.059][P:11496/T:1124][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:28:42.677
+[2018-06-08 13:28:42.677][P:12136/T:9060][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:28:42.677][P:12136/T:9060][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:28:42.701][P:12136/T:9060][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:28:42.702][P:12136/T:9060][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:28:42.713][P:12136/T:9060][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E8F0000
+
+[2018-06-08 13:28:42.714][P:12136/T:9060][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:28:42.726][P:12136/T:9060][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:28:43.742][P:12136/T:9060][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04CE2EAE, dwUser=00000000].
+[2018-06-08 13:28:43.742][P:12136/T:9060][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:28:44.652][P:12136/T:9060][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04CE2ED6, dwUser=00000000.]
+[2018-06-08 13:28:44.652][P:12136/T:9060][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:29:48.466
+[2018-06-08 13:29:48.467][P:4564/T:9084][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:29:48.467][P:4564/T:9084][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:29:48.487][P:4564/T:9084][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:29:48.489][P:4564/T:9084][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:29:48.501][P:4564/T:9084][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E780000
+
+[2018-06-08 13:29:48.501][P:4564/T:9084][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:29:48.509][P:4564/T:9084][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:29:48.510][P:4564/T:9084][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=00A425A6, dwUser=00000000].
+[2018-06-08 13:29:48.510][P:4564/T:9084][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:29:48.510][P:4564/T:9084][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=00A425CE, dwUser=00000000.]
+[2018-06-08 13:29:48.510][P:4564/T:9084][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 13:29:54.334][P:4564/T:9084][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=003AE928.]
+[2018-06-08 13:29:55.834][P:4564/T:9084][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:29:55.834][P:4564/T:9084][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:29:55.834][P:4564/T:9084][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:29:55.834][P:4564/T:9084][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:29:55.834][P:4564/T:9084][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:29:55.834][P:4564/T:9084][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:29:55.834][P:4564/T:9084][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:29:55.834][P:4564/T:9084][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 13:30:29.807
+[2018-06-08 13:30:29.807][P:10140/T:7892][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:30:29.807][P:10140/T:7892][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:30:29.828][P:10140/T:7892][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:30:29.829][P:10140/T:7892][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:30:29.839][P:10140/T:7892][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E3A0000
+
+[2018-06-08 13:30:29.839][P:10140/T:7892][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:30:29.846][P:10140/T:7892][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:30:29.847][P:10140/T:7892][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=053B25A6, dwUser=00000000].
+[2018-06-08 13:30:29.847][P:10140/T:7892][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:30:29.847][P:10140/T:7892][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=053B25CE, dwUser=00000000.]
+[2018-06-08 13:30:29.847][P:10140/T:7892][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:30:46.892
+[2018-06-08 13:30:46.892][P:10892/T:8636][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:30:46.892][P:10892/T:8636][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:30:46.915][P:10892/T:8636][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:30:46.917][P:10892/T:8636][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:30:46.928][P:10892/T:8636][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E6C0000
+
+[2018-06-08 13:30:46.928][P:10892/T:8636][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:30:46.937][P:10892/T:8636][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:30:46.938][P:10892/T:8636][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=00BA25A6, dwUser=00000000].
+[2018-06-08 13:30:46.938][P:10892/T:8636][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:30:46.938][P:10892/T:8636][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=00BA25CE, dwUser=00000000.]
+[2018-06-08 13:30:46.938][P:10892/T:8636][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:31:02.766
+[2018-06-08 13:31:02.766][P:11012/T:10984][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:31:02.766][P:11012/T:10984][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:31:02.787][P:11012/T:10984][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:31:02.788][P:11012/T:10984][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:31:02.799][P:11012/T:10984][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0F3D0000
+
+[2018-06-08 13:31:02.799][P:11012/T:10984][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:31:02.808][P:11012/T:10984][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:31:02.809][P:11012/T:10984][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04C62EAE, dwUser=00000000].
+[2018-06-08 13:31:02.809][P:11012/T:10984][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:31:02.810][P:11012/T:10984][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04C62ED6, dwUser=00000000.]
+[2018-06-08 13:31:02.810][P:11012/T:10984][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-08 13:33:15.446
+[2018-06-08 13:33:15.446][P:7960/T:1868][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:33:15.447][P:7960/T:1868][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:33:15.468][P:7960/T:1868][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:33:15.470][P:7960/T:1868][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:33:15.480][P:7960/T:1868][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E650000
+
+[2018-06-08 13:33:15.480][P:7960/T:1868][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:33:15.488][P:7960/T:1868][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:33:15.489][P:7960/T:1868][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=045E25A6, dwUser=00000000].
+[2018-06-08 13:33:15.489][P:7960/T:1868][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:33:15.489][P:7960/T:1868][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=045E25CE, dwUser=00000000.]
+[2018-06-08 13:33:15.489][P:7960/T:1868][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 13:33:15.510][P:7960/T:1868][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0043E5D0.]
+[2018-06-08 13:33:17.011][P:7960/T:1868][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:33:17.011][P:7960/T:1868][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:33:17.011][P:7960/T:1868][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:33:17.011][P:7960/T:1868][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:33:17.011][P:7960/T:1868][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:33:17.011][P:7960/T:1868][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:33:17.011][P:7960/T:1868][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:33:17.011][P:7960/T:1868][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 13:33:19.703][P:7960/T:1868][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0043DB28.]
+[2018-06-08 13:33:21.203][P:7960/T:1868][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:33:21.203][P:7960/T:1868][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:33:21.203][P:7960/T:1868][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:33:21.203][P:7960/T:1868][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:33:21.203][P:7960/T:1868][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:33:21.203][P:7960/T:1868][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:33:21.203][P:7960/T:1868][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:33:21.203][P:7960/T:1868][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 13:33:21.210][P:7960/T:1868][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0043DB28.]
+[2018-06-08 13:33:22.710][P:7960/T:1868][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:33:22.710][P:7960/T:1868][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:33:22.710][P:7960/T:1868][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:33:22.710][P:7960/T:1868][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:33:22.710][P:7960/T:1868][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:33:22.710][P:7960/T:1868][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:33:22.710][P:7960/T:1868][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:33:22.710][P:7960/T:1868][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 13:33:30.149][P:7960/T:1868][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0043E788.]
+[2018-06-08 13:33:31.649][P:7960/T:1868][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:33:31.649][P:7960/T:1868][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:33:31.649][P:7960/T:1868][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:33:31.649][P:7960/T:1868][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:33:31.649][P:7960/T:1868][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:33:31.649][P:7960/T:1868][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:33:31.649][P:7960/T:1868][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:33:31.649][P:7960/T:1868][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 13:33:44.101][P:7960/T:1868][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0043DB28.]
+[2018-06-08 13:33:45.601][P:7960/T:1868][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:33:45.601][P:7960/T:1868][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:33:45.601][P:7960/T:1868][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:33:45.601][P:7960/T:1868][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:33:45.601][P:7960/T:1868][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:33:45.601][P:7960/T:1868][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:33:45.601][P:7960/T:1868][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:33:45.601][P:7960/T:1868][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 13:33:45.612][P:7960/T:1868][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0043DB28.]
+[2018-06-08 13:33:47.112][P:7960/T:1868][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:33:47.112][P:7960/T:1868][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:33:47.112][P:7960/T:1868][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:33:47.112][P:7960/T:1868][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:33:47.112][P:7960/T:1868][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:33:47.112][P:7960/T:1868][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:33:47.112][P:7960/T:1868][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:33:47.112][P:7960/T:1868][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 13:40:17.118
+[2018-06-08 13:40:17.118][P:11928/T:7840][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:40:17.118][P:11928/T:7840][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:40:17.139][P:11928/T:7840][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:40:17.141][P:11928/T:7840][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:40:17.149][P:11928/T:7840][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E750000
+
+[2018-06-08 13:40:17.149][P:11928/T:7840][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:40:17.157][P:11928/T:7840][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:40:17.158][P:11928/T:7840][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=051E25A6, dwUser=00000000].
+[2018-06-08 13:40:17.158][P:11928/T:7840][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:40:17.158][P:11928/T:7840][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=051E25CE, dwUser=00000000.]
+[2018-06-08 13:40:17.158][P:11928/T:7840][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+[2018-06-08 13:40:17.178][P:11928/T:7840][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0016EC04.]
+[2018-06-08 13:40:18.678][P:11928/T:7840][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:40:18.678][P:11928/T:7840][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:40:18.678][P:11928/T:7840][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:40:18.678][P:11928/T:7840][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:40:18.678][P:11928/T:7840][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:40:18.678][P:11928/T:7840][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:40:18.678][P:11928/T:7840][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:40:18.678][P:11928/T:7840][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2018-06-08 13:40:21.238][P:11928/T:7840][dhnetsdk.cpp:404][Info][0] Enter CLIENT_LoginEx2. [IP=172.23.1.104, port=37777, SpeCap=0, lpDeviceInfo=0016EDA8.]
+[2018-06-08 13:40:22.738][P:11928/T:7840][TPTCPClient.cpp:560][Error][90010007] Connect host failed, ip:172.23.1.104
+[2018-06-08 13:40:22.738][P:11928/T:7840][dhdevprob.cpp:2199][Error][9001000d] Failed to create main connection
+[2018-06-08 13:40:22.738][P:11928/T:7840][Manager.cpp:6570][Error][90010002] device is NULL
+[2018-06-08 13:40:22.738][P:11928/T:7840][Manager.cpp:6667][Error][90010002] Login device failed, errorcode:9!
+[2018-06-08 13:40:22.738][P:11928/T:7840][dhnetsdk.cpp:431][Error][90010002] Login failed, ip:172.23.1.104, port:37777, specCap:0!
+[2018-06-08 13:40:22.738][P:11928/T:7840][dhnetsdk.cpp:440][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+[2018-06-08 13:40:22.738][P:11928/T:7840][dhnetsdk.cpp:6036][Info][0] Enter CLIENT_GetLastError.
+[2018-06-08 13:40:22.738][P:11928/T:7840][dhnetsdk.cpp:6039][Info][0] Leave CLIENT_GetLastError.[Error code=8000006b.]
+Begin Time:2018-06-08 13:45:01.235
+[2018-06-08 13:45:01.235][P:9432/T:5064][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-08 13:45:01.235][P:9432/T:5064][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-08 13:45:01.256][P:9432/T:5064][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-08 13:45:01.258][P:9432/T:5064][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-08 13:45:01.267][P:9432/T:5064][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E470000
+
+[2018-06-08 13:45:01.267][P:9432/T:5064][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-08 13:45:01.275][P:9432/T:5064][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-08 13:45:01.275][P:9432/T:5064][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04D425A6, dwUser=00000000].
+[2018-06-08 13:45:01.275][P:9432/T:5064][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-08 13:45:01.275][P:9432/T:5064][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04D425CE, dwUser=00000000.]
+[2018-06-08 13:45:01.275][P:9432/T:5064][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 12:31:21.504
+[2018-06-15 12:31:21.505][P:2712/T:10608][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 12:31:21.505][P:2712/T:10608][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 12:31:21.597][P:2712/T:10608][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 12:31:21.600][P:2712/T:10608][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 12:31:21.704][P:2712/T:10608][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E750000
+
+[2018-06-15 12:31:21.705][P:2712/T:10608][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 12:31:21.777][P:2712/T:10608][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 12:31:21.778][P:2712/T:10608][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=05282416, dwUser=00000000].
+[2018-06-15 12:31:21.778][P:2712/T:10608][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 12:31:21.778][P:2712/T:10608][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=0528243E, dwUser=00000000.]
+[2018-06-15 12:31:21.779][P:2712/T:10608][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 12:31:53.026
+[2018-06-15 12:31:53.026][P:8596/T:11452][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 12:31:53.026][P:8596/T:11452][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 12:31:53.090][P:8596/T:11452][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 12:31:53.092][P:8596/T:11452][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 12:31:53.108][P:8596/T:11452][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E690000
+
+[2018-06-15 12:31:53.108][P:8596/T:11452][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 12:31:53.136][P:8596/T:11452][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 12:31:53.137][P:8596/T:11452][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=05252416, dwUser=00000000].
+[2018-06-15 12:31:53.137][P:8596/T:11452][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 12:31:53.137][P:8596/T:11452][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=0525243E, dwUser=00000000.]
+[2018-06-15 12:31:53.137][P:8596/T:11452][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 12:37:52.217
+[2018-06-15 12:37:52.217][P:9540/T:5820][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 12:37:52.218][P:9540/T:5820][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 12:37:52.315][P:9540/T:5820][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 12:37:52.316][P:9540/T:5820][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 12:37:52.345][P:9540/T:5820][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E840000
+
+[2018-06-15 12:37:52.345][P:9540/T:5820][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 12:37:52.376][P:9540/T:5820][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 12:37:52.377][P:9540/T:5820][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=00B32416, dwUser=00000000].
+[2018-06-15 12:37:52.377][P:9540/T:5820][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 12:37:52.378][P:9540/T:5820][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=00B3243E, dwUser=00000000.]
+[2018-06-15 12:37:52.378][P:9540/T:5820][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 12:38:11.737
+[2018-06-15 12:38:11.737][P:12676/T:6052][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 12:38:11.738][P:12676/T:6052][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 12:38:11.821][P:12676/T:6052][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 12:38:11.823][P:12676/T:6052][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 12:38:11.842][P:12676/T:6052][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0EA60000
+
+[2018-06-15 12:38:11.842][P:12676/T:6052][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 12:38:11.871][P:12676/T:6052][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 12:38:11.871][P:12676/T:6052][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=054B2416, dwUser=00000000].
+[2018-06-15 12:38:11.871][P:12676/T:6052][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 12:38:11.871][P:12676/T:6052][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=054B243E, dwUser=00000000.]
+[2018-06-15 12:38:11.872][P:12676/T:6052][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 12:43:09.807
+[2018-06-15 12:43:09.807][P:13232/T:10164][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 12:43:09.807][P:13232/T:10164][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 12:43:09.878][P:13232/T:10164][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 12:43:09.880][P:13232/T:10164][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 12:43:09.896][P:13232/T:10164][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0EB60000
+
+[2018-06-15 12:43:09.896][P:13232/T:10164][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 12:43:09.926][P:13232/T:10164][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 12:43:09.926][P:13232/T:10164][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=0201243E, dwUser=00000000].
+[2018-06-15 12:43:09.926][P:13232/T:10164][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 12:43:09.926][P:13232/T:10164][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=02012466, dwUser=00000000.]
+[2018-06-15 12:43:09.926][P:13232/T:10164][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 12:43:36.940
+[2018-06-15 12:43:36.940][P:12740/T:7160][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 12:43:36.940][P:12740/T:7160][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 12:43:37.002][P:12740/T:7160][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 12:43:37.003][P:12740/T:7160][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 12:43:37.019][P:12740/T:7160][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E9D0000
+
+[2018-06-15 12:43:37.019][P:12740/T:7160][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 12:43:37.051][P:12740/T:7160][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 12:43:37.051][P:12740/T:7160][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=0065243E, dwUser=00000000].
+[2018-06-15 12:43:37.051][P:12740/T:7160][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 12:43:37.052][P:12740/T:7160][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=00652466, dwUser=00000000.]
+[2018-06-15 12:43:37.052][P:12740/T:7160][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 12:44:41.071
+[2018-06-15 12:44:41.071][P:11140/T:10440][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 12:44:41.071][P:11140/T:10440][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 12:44:41.175][P:11140/T:10440][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 12:44:41.178][P:11140/T:10440][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 12:44:41.204][P:11140/T:10440][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E6F0000
+
+[2018-06-15 12:44:41.204][P:11140/T:10440][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 12:44:41.230][P:11140/T:10440][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 12:44:41.230][P:11140/T:10440][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=0526243E, dwUser=00000000].
+[2018-06-15 12:44:41.230][P:11140/T:10440][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 12:44:41.231][P:11140/T:10440][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=05262466, dwUser=00000000.]
+[2018-06-15 12:44:41.231][P:11140/T:10440][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 13:53:55.064
+[2018-06-15 13:53:55.064][P:11636/T:10516][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 13:53:55.064][P:11636/T:10516][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 13:53:55.132][P:11636/T:10516][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 13:53:55.133][P:11636/T:10516][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 13:53:55.152][P:11636/T:10516][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E710000
+
+[2018-06-15 13:53:55.152][P:11636/T:10516][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 13:53:55.178][P:11636/T:10516][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 13:53:55.178][P:11636/T:10516][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=00BA23EE, dwUser=00000000].
+[2018-06-15 13:53:55.179][P:11636/T:10516][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 13:53:55.179][P:11636/T:10516][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=00BA2416, dwUser=00000000.]
+[2018-06-15 13:53:55.179][P:11636/T:10516][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 15:26:02.176
+[2018-06-15 15:26:02.177][P:5244/T:11176][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 15:26:02.177][P:5244/T:11176][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 15:26:02.234][P:5244/T:11176][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 15:26:02.236][P:5244/T:11176][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 15:26:02.310][P:5244/T:11176][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E7C0000
+
+[2018-06-15 15:26:02.311][P:5244/T:11176][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 15:26:02.353][P:5244/T:11176][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 15:26:02.354][P:5244/T:11176][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=00702416, dwUser=00000000].
+[2018-06-15 15:26:02.354][P:5244/T:11176][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 15:26:02.355][P:5244/T:11176][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=0070243E, dwUser=00000000.]
+[2018-06-15 15:26:02.355][P:5244/T:11176][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 15:29:39.650
+[2018-06-15 15:29:39.650][P:12092/T:2552][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 15:29:39.650][P:12092/T:2552][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 15:29:39.704][P:12092/T:2552][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 15:29:39.708][P:12092/T:2552][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 15:29:39.727][P:12092/T:2552][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E7F0000
+
+[2018-06-15 15:29:39.727][P:12092/T:2552][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 15:29:39.760][P:12092/T:2552][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 15:29:39.760][P:12092/T:2552][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=050F2416, dwUser=00000000].
+[2018-06-15 15:29:39.760][P:12092/T:2552][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 15:29:39.761][P:12092/T:2552][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=050F243E, dwUser=00000000.]
+[2018-06-15 15:29:39.761][P:12092/T:2552][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 15:30:09.123
+[2018-06-15 15:30:09.123][P:13180/T:3912][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 15:30:09.123][P:13180/T:3912][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 15:30:09.186][P:13180/T:3912][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 15:30:09.188][P:13180/T:3912][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 15:30:09.209][P:13180/T:3912][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E850000
+
+[2018-06-15 15:30:09.209][P:13180/T:3912][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 15:30:09.237][P:13180/T:3912][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 15:30:09.237][P:13180/T:3912][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=05582416, dwUser=00000000].
+[2018-06-15 15:30:09.237][P:13180/T:3912][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 15:30:09.237][P:13180/T:3912][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=0558243E, dwUser=00000000.]
+[2018-06-15 15:30:09.237][P:13180/T:3912][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 15:35:40.860
+[2018-06-15 15:35:40.860][P:13296/T:5244][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 15:35:40.860][P:13296/T:5244][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 15:35:40.918][P:13296/T:5244][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 15:35:40.920][P:13296/T:5244][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 15:35:40.938][P:13296/T:5244][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E970000
+
+[2018-06-15 15:35:40.938][P:13296/T:5244][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 15:35:40.963][P:13296/T:5244][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 15:35:40.964][P:13296/T:5244][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=055420F6, dwUser=00000000].
+[2018-06-15 15:35:40.964][P:13296/T:5244][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 15:35:40.964][P:13296/T:5244][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=0554211E, dwUser=00000000.]
+[2018-06-15 15:35:40.964][P:13296/T:5244][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-15 15:35:55.974
+[2018-06-15 15:35:55.974][P:13084/T:6476][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-15 15:35:55.974][P:13084/T:6476][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-15 15:35:56.034][P:13084/T:6476][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-15 15:35:56.035][P:13084/T:6476][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-15 15:35:56.054][P:13084/T:6476][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E860000
+
+[2018-06-15 15:35:56.054][P:13084/T:6476][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-15 15:35:56.076][P:13084/T:6476][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-15 15:35:56.077][P:13084/T:6476][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=051A20F6, dwUser=00000000].
+[2018-06-15 15:35:56.077][P:13084/T:6476][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-15 15:35:56.077][P:13084/T:6476][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=051A211E, dwUser=00000000.]
+[2018-06-15 15:35:56.077][P:13084/T:6476][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:25:02.367
+[2018-06-20 12:25:02.367][P:11832/T:9784][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:25:02.367][P:11832/T:9784][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:25:02.399][P:11832/T:9784][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:25:02.401][P:11832/T:9784][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:25:02.527][P:11832/T:9784][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E9A0000
+
+[2018-06-20 12:25:02.527][P:11832/T:9784][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:25:02.570][P:11832/T:9784][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:25:02.571][P:11832/T:9784][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=012620F6, dwUser=00000000].
+[2018-06-20 12:25:02.571][P:11832/T:9784][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:25:02.571][P:11832/T:9784][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=0126211E, dwUser=00000000.]
+[2018-06-20 12:25:02.571][P:11832/T:9784][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:26:48.322
+[2018-06-20 12:26:48.322][P:4504/T:2844][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:26:48.323][P:4504/T:2844][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:26:48.345][P:4504/T:2844][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:26:48.347][P:4504/T:2844][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:26:48.357][P:4504/T:2844][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E910000
+
+[2018-06-20 12:26:48.357][P:4504/T:2844][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:26:48.364][P:4504/T:2844][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:26:48.365][P:4504/T:2844][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=053520F6, dwUser=00000000].
+[2018-06-20 12:26:48.365][P:4504/T:2844][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:26:48.365][P:4504/T:2844][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=0535211E, dwUser=00000000.]
+[2018-06-20 12:26:48.365][P:4504/T:2844][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:27:01.160
+[2018-06-20 12:27:01.160][P:1512/T:10348][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:27:01.160][P:1512/T:10348][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:27:01.183][P:1512/T:10348][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:27:01.185][P:1512/T:10348][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:27:01.194][P:1512/T:10348][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0EC10000
+
+[2018-06-20 12:27:01.195][P:1512/T:10348][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:27:01.203][P:1512/T:10348][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:27:01.203][P:1512/T:10348][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04A520F6, dwUser=00000000].
+[2018-06-20 12:27:01.203][P:1512/T:10348][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:27:01.204][P:1512/T:10348][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04A5211E, dwUser=00000000.]
+[2018-06-20 12:27:01.204][P:1512/T:10348][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:27:54.477
+[2018-06-20 12:27:54.477][P:7300/T:5956][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:27:54.477][P:7300/T:5956][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:27:54.499][P:7300/T:5956][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:27:54.500][P:7300/T:5956][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:27:54.512][P:7300/T:5956][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 10D20000
+
+[2018-06-20 12:27:54.512][P:7300/T:5956][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:27:54.522][P:7300/T:5956][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:27:54.523][P:7300/T:5956][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=020F29FE, dwUser=00000000].
+[2018-06-20 12:27:54.523][P:7300/T:5956][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:27:54.523][P:7300/T:5956][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=020F2A26, dwUser=00000000.]
+[2018-06-20 12:27:54.523][P:7300/T:5956][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:28:01.377
+[2018-06-20 12:28:01.377][P:2600/T:11428][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:28:01.377][P:2600/T:11428][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:28:01.401][P:2600/T:11428][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:28:01.403][P:2600/T:11428][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:28:01.413][P:2600/T:11428][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 109C0000
+
+[2018-06-20 12:28:01.414][P:2600/T:11428][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:28:01.422][P:2600/T:11428][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:28:01.424][P:2600/T:11428][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=00A729FE, dwUser=00000000].
+[2018-06-20 12:28:01.424][P:2600/T:11428][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:28:01.424][P:2600/T:11428][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=00A72A26, dwUser=00000000.]
+[2018-06-20 12:28:01.424][P:2600/T:11428][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:28:18.825
+[2018-06-20 12:28:18.825][P:9448/T:2676][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:28:18.825][P:9448/T:2676][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:28:18.848][P:9448/T:2676][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:28:18.849][P:9448/T:2676][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:28:18.862][P:9448/T:2676][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0F900000
+
+[2018-06-20 12:28:18.862][P:9448/T:2676][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:28:18.872][P:9448/T:2676][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:28:18.873][P:9448/T:2676][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=00622A26, dwUser=00000000].
+[2018-06-20 12:28:18.873][P:9448/T:2676][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:28:18.875][P:9448/T:2676][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=00622A4E, dwUser=00000000.]
+[2018-06-20 12:28:18.875][P:9448/T:2676][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:28:46.869
+[2018-06-20 12:28:46.869][P:9236/T:9404][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:28:46.869][P:9236/T:9404][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:28:46.892][P:9236/T:9404][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:28:46.894][P:9236/T:9404][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:28:46.904][P:9236/T:9404][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0F3B0000
+
+[2018-06-20 12:28:46.904][P:9236/T:9404][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:28:46.914][P:9236/T:9404][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:28:46.915][P:9236/T:9404][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=01DE2A26, dwUser=00000000].
+[2018-06-20 12:28:46.915][P:9236/T:9404][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:28:46.915][P:9236/T:9404][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=01DE2A4E, dwUser=00000000.]
+[2018-06-20 12:28:46.915][P:9236/T:9404][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:39:44.442
+[2018-06-20 12:39:44.442][P:5860/T:5652][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:39:44.442][P:5860/T:5652][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:39:44.472][P:5860/T:5652][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:39:44.474][P:5860/T:5652][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:39:44.484][P:5860/T:5652][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E620000
+
+[2018-06-20 12:39:44.484][P:5860/T:5652][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:39:44.493][P:5860/T:5652][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:39:44.494][P:5860/T:5652][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04B120F6, dwUser=00000000].
+[2018-06-20 12:39:44.494][P:5860/T:5652][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:39:44.494][P:5860/T:5652][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04B1211E, dwUser=00000000.]
+[2018-06-20 12:39:44.494][P:5860/T:5652][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:40:44.637
+[2018-06-20 12:40:44.637][P:2564/T:5536][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:40:44.637][P:2564/T:5536][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:40:44.661][P:2564/T:5536][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:40:44.664][P:2564/T:5536][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:40:44.675][P:2564/T:5536][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E6D0000
+
+[2018-06-20 12:40:44.675][P:2564/T:5536][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:40:44.684][P:2564/T:5536][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:40:44.685][P:2564/T:5536][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04D720F6, dwUser=00000000].
+[2018-06-20 12:40:44.685][P:2564/T:5536][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:40:44.685][P:2564/T:5536][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04D7211E, dwUser=00000000.]
+[2018-06-20 12:40:44.685][P:2564/T:5536][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.
+Begin Time:2018-06-20 12:42:59.633
+[2018-06-20 12:42:59.633][P:5236/T:9160][HttpClient.cpp:323][Info][0] Load curl dynamically
+[2018-06-20 12:42:59.633][P:5236/T:9160][HttpClient.cpp:352][Info][0] curl module handle: 00000000
+
+[2018-06-20 12:42:59.662][P:5236/T:9160][Utils.cpp:4792][Info][0] mutil NIC client
+[2018-06-20 12:42:59.664][P:5236/T:9160][AVNetSDKMgr.cpp:350][Info][0] Load avnetsdk library dynamically
+[2018-06-20 12:42:59.675][P:5236/T:9160][AVNetSDKMgr.cpp:374][Info][0] avnetsdk module handle: 0E8E0000
+
+[2018-06-20 12:42:59.675][P:5236/T:9160][AVNetSDKMgr.cpp:624][Info][0] Load configsdk dynamically
+[2018-06-20 12:42:59.684][P:5236/T:9160][dhnetsdk.cpp:109][Info][0] Leave CLIENT_InitEx.
+[2018-06-20 12:42:59.685][P:5236/T:9160][dhnetsdk.cpp:140][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=04D720F6, dwUser=00000000].
+[2018-06-20 12:42:59.685][P:5236/T:9160][dhnetsdk.cpp:142][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-06-20 12:42:59.685][P:5236/T:9160][dhnetsdk.cpp:6268][Info][0] Enter CLIENT_SetSnapRevCallBack. [OnSnapRevMessage=04D7211E, dwUser=00000000.]
+[2018-06-20 12:42:59.685][P:5236/T:9160][dhnetsdk.cpp:6271][Info][0] Leave CLIENT_SetSnapRevCallBack.

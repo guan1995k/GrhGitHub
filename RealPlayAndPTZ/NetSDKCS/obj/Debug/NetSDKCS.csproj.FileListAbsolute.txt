@@ -1,0 +1,5 @@
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\NetSDKCS\bin\Debug\NetSDKCS.dll
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\NetSDKCS\bin\Debug\NetSDKCS.pdb
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\NetSDKCS\obj\Debug\NetSDKCS.dll
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\NetSDKCS\obj\Debug\NetSDKCS.pdb
+F:\598063_General_NetSDK_Chn_Win32_IS_V3.049.0000000.2.R.180127\演示程序\CSharpDemo\RealPlayAndPTZ\NetSDKCS\obj\Debug\NetSDKCS.csprojResolveAssemblyReference.cache
